@@ -1,0 +1,1 @@
+With this tool, the existence of files in a given folder in drive was checked. It can be defined as Task and checked every night. If there was a difference in the files, the admins were notified via the bot via telegram. It is unusable because Google no longer opens developer settings to standard users.
